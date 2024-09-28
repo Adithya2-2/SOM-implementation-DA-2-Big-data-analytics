@@ -65,7 +65,7 @@ pip install numpy pandas matplotlib scikit-learn minisom
 -Run the Script
 -Execute the python script
 ```bash
-python som_fraud_detection.py
+python SOM.py
 ```
 
 

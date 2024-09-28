@@ -53,7 +53,6 @@ this code can be run on google colab and only minisom library has to be installe
 
 ```bash
 git clone https://github.com/Adithya2-2/SOM-implementation-DA-2-Big-data-analytics.git
-cd Self-Organizing-Maps-Fraud-Detection
 ```
 -install dependencies 
 -install the required python libraries using pip
